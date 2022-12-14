@@ -44,7 +44,7 @@ To run the code in the .RMD files yourself, make sure to have R installed on you
 
 ## Packages used
 
-Beyond base R, this project uses a variety of packages to prepare, build, and assess the models. The packages used in each model can be found at the top .RMD file for each model, but the entire list of packages used can be found below:
+Beyond base R, this project uses a variety of packages to prepare, build, and assess the models. The packages used in each model can be found at the top of the .RMD file for each model, but the entire list of packages used can be found below:
 
 `library(dplyr)`     
 `library(rsample)`    
@@ -75,6 +75,6 @@ Certain models may take quite a long time and use up a lot of memory to run. Thi
 
 ## Contact
 
-If you  have any questions about this project or have any issues, contact me at christine.pallon@mail.mcgill.ca
+If you have any questions about this project or have any issues, contact me at christine.pallon@mail.mcgill.ca
 
 *Happy classifying!* 
