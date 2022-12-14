@@ -24,7 +24,7 @@ The contents are as follows:
 
 ## Model details
 
-All models use the **radiomics.csv** dataset, with *Failure.binary* as the property we're trying to predict. As such, all models deal with binary classification. All models also use an 80/20 training/testing split. 
+All models use the **radiomics_completedata.csv** dataset, with *Failure.binary* as the property we're trying to predict. As such, all models deal with binary classification. All models also use an 80/20 training/testing split. 
 
 Our three models are as follows:
 
